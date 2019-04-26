@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Second App</string>
+    <string name="confirm">CONFIRM NOW</string>
+    <string name="testString">Test</string>
+</resources>
